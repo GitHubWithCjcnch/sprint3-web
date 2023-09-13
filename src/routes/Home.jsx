@@ -11,7 +11,7 @@ export default function Home(){
               <h1 id="dois">A porto chegou!</h1>
             </div>
             <div className="imgBox">
-              <img src={imgHome} alt="#" />
+              <img src={imgHome} alt="Imagem de uma pessoa solicitando guincho no celular" />
             </div>
         </div>
       </main>
