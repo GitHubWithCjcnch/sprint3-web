@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,200&display=swap');
 @import url('./css/Index.css');
 @import url('./css/Projeto.css');
+@import url('./css/AboutUs.css');
 
 * {
     margin: 0;
