@@ -1,3 +1,3 @@
-# Sprint do challenge da Porto Seguro, da matéria de responsive web development
+# Terceira Sprint da matéria de responsive web development, do challenge proposto pela Porto Seguro.
 
 

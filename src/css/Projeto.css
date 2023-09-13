@@ -48,9 +48,9 @@
         align-items: center;
     }
 
-    .content_proejeto .card {
-        width: 50%;
-        margin-bottom: 20vh;
+    .content_projeto .card {
+        width: 70%;
+        margin-top: 20vh;
     }
   }
 
@@ -61,6 +61,6 @@
 
     .content_projeto .row_card .card img{
         display: block;
-        max-width: 50%;
+        max-width: 40%;
     }
 }
