@@ -1,0 +1,29 @@
+.content_index{
+    display: flex;
+    justify-content: center;
+}
+
+.content_index .container{
+    justify-content: space-between;
+}
+
+.content_index .textBox{
+   text-align: center;
+   line-height: 4rem;
+   font-size: 1.5rem;
+}
+
+#um{ 
+    color: #001F54;
+    font-weight: 900;
+}
+
+#dois{ 
+    color: #0077B6;
+    overflow: hidden; 
+}
+
+.content_index .imgBox img{
+    display: block;
+    width: 50vw;
+}
